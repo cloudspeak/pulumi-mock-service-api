@@ -1,6 +1,6 @@
 # Cloudspeak mock service API
 
-This project contains a mock service API and an empty Pulumi project used in Cloudspeak's Pulumi Dynamic Provider video.  The mock service API maintains a set of "table" records, like a simple cloud database service.
+This project contains a mock service API and an empty Pulumi project used in Cloudspeak's [Pulumi Dynamic Provider video](https://youtu.be/H4nehfvCLm8).  The mock service API maintains a set of "table" records, like a simple cloud database service.
 
 To run the service:
 
