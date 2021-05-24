@@ -1,0 +1,14 @@
+{
+  "name": "pulumi-lesson-mock-service-api",
+  "version": "1.0.0",
+  "description": "A mock service API used in Cloudspeak's Pulumi Dynamic Provider tutorial video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cloudspeak",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
